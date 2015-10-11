@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "jsx": "react",
+    "inlineSourceMap": true,
+    "inlineSources": true
+  },
+  "files": [
+    "./typings/tsd.d.ts",
+    "./app/app.tsx"
+  ]
+}

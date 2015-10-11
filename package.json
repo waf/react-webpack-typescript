@@ -1,0 +1,21 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/app.tsx",
+  "dependencies": {
+    "react": "^0.13.3",
+    "redux": "^3.0.2",
+    "react-redux": "^3.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^1.6.2",
+    "redux-devtools": "^2.1.5",
+    "ts-loader": "^0.5.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

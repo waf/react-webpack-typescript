@@ -1,0 +1,7 @@
+
+# ignore compiled files (webpack output)
+dist/*
+# ignore typescript packages downloaded by tsd
+typings/*
+# ignore node packages downloaded by npm
+node_modules/*
